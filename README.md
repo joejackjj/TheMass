@@ -17,25 +17,25 @@ chart that tells holders when will the pump happen, holders will know the exact 
 price pump, the solid price increasing estimation will stimulate more and more holders to
 buy more, which is NEVER DUMP and ONLY PUMP!
 3. Tokenomic
-1. NEVER DUMP, ONLY PUMP
+  1. NEVER DUMP, ONLY PUMP
 6% bnb of each transaction is fueled into the whale pool for buy back and burnThe whale pool has two functions:
  If the currency price drops by 5%, Whale Pool will automatically start, and the
 contract will use 1% bnb of Whale Pool to buy back tokens and destroy them.
  A series of huge pump buyback when the pool is filled:
-i. When the whale pool is filled with 500bnb, it will automatically use 20% to buy
+  i. When the whale pool is filled with 500bnb, it will automatically use 20% to buy
 back and destroy to enter the black hole.
-ii. The whale pool is filled with 1000bnb, use 25% repurchase and destroy to break
+  ii. The whale pool is filled with 1000bnb, use 25% repurchase and destroy to break
 into the black hole
-iii. The whale pool is filled with 2000bnb, use 30% repurchase and destroy to
+  iii. The whale pool is filled with 2000bnb, use 30% repurchase and destroy to
 break into the black hole
-iv. The whale pool is filled with 5000bnb, using 35% repurchase and destruction to
+  iv. The whale pool is filled with 5000bnb, using 35% repurchase and destruction to
 break into the black hole
 v. The whale pool is filled with 10000bnb, using 40% repurchase and destruction
 to break into the black hole
 (I-iv can only be triggered once. Except for the last one, the last one can be
 triggered indefinitely, and it will be triggered again every time the whale pool filled
 with 10000bnb)
-2. HODL TO EARN
+  2. HODL TO EARN
 4% of each transaction is collected and distributed to the holders according to the
 proportion of the holdings, and the holdings of the holdings will pay dividends bnb. It is
 automatically distributed to currency holders every 4 hours.
