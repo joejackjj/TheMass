@@ -27,7 +27,7 @@ contract THEMASS is ERC20, Ownable {
     THEMASSDividendTracker public dividendTracker;
 //Max sell amount
     uint256 public maxSellTransactionAmount = 10**13 * (10**18);
-    uint256 public swapTokensAtAmount = 2 * 10**12 * (10**18);
+    uint256 public swapTokensAtAmount = 3 * 10**15 * (10**18);
     
     
     uint256 public immutable BNBRewardsFee;
