@@ -28,7 +28,7 @@ contract THEMASSDividendTracker is DividendPayingToken, Ownable {
     event Claim(address indexed account, uint256 amount, bool indexed automatic);
 
     constructor() DividendPayingToken("THEMASS_Dividend_Tracker", "THEMASS_Dividend_Tracker") {
-        claimWait = 3600;
+        claimWait = 14400;  //dividen time second
         minimumTokenBalanceForDividends = 1000000 * (10**18); //must hold 10000+ tokens
     }
 
