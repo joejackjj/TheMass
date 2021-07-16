@@ -51,7 +51,7 @@ contract THEMASSDividendTracker is DividendPayingToken, Ownable {
     }
 
     function updateClaimWait(uint256 newClaimWait) external onlyOwner {
-        require(newClaimWait >= 3600 && newClaimWait <= 86400, "THEMASS_Dividend_Tracker: claimWait must be updated to between 1 and 24 hours");	
+        require(newClaimWait >= 14400 && newClaimWait <= 86400, "THEMASS_Dividend_Tracker: claimWait must be updated to between 4 and 24 hours");	
         require(newClaimWait != claimWait, "THEMASS_Dividend_Tracker: Cannot update claimWait to same value");
         emit ClaimWaitUpdated(newClaimWait, claimWait);
         claimWait = newClaimWait;
