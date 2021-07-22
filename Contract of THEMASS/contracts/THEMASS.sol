@@ -124,7 +124,7 @@ contract THEMASS is ERC20, Ownable {
             _mint is an internal function in ERC20.sol that is only called here,
             and CANNOT be called ever again
         */
-        _mint(owner(), 10**18 * (10**18));
+        _mint(owner(), 10**16 * (10**6));
     }
 
     receive() external payable {
