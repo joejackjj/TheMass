@@ -1,0 +1,22 @@
+{
+  "remappings": [],
+  "optimizer": {
+    "enabled": true,
+    "runs": 200
+  },
+  "evmVersion": "istanbul",
+  "libraries": {
+    "/home/THEMASS/contracts/IterableMapping.sol": {
+      "IterableMapping": "0xEb985252Ea3571f108E85a2e552b85B059496314"
+    }
+  },
+  "outputSelection": {
+    "*": {
+      "*": [
+        "evm.bytecode",
+        "evm.deployedBytecode",
+        "abi"
+      ]
+    }
+  }
+}
