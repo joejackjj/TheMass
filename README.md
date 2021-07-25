@@ -50,18 +50,29 @@ Token: $Themass
 Contract address: To be announced
 Decimals: 16
 ⚔TOTAL SUPPLY: 10,000,000,000,000,000
+
 ⚔TOKENS LOCKED: 4,000,000,000,000,000（40%） Renew lock monthly upon
 community vote
+
 ⚔TOKENS FOR COMMUNITY DEVELOPMENT: 500,000,000,000,000（5%）Locked for 2
 months
+
 ⚔TOKENS FOR MARKETING WALLET: 700,000,000,000,000（5%）
+
 ⚔TEAM FUND: 1,500,000,000,000,000（15%）Unlock Date : 6 months minimum
+
 ⚔TOKENS FOR AIRDROP : 500,000,000,000,000（5%）
+
 ⚔TOKENS FOR PRESALE AND INITIAL LIQUIDITY: 3,000,000,000,000,000 (30%)
+
 ⚔Soft Cap: 1000BNB
+
 ⚔Hard Cap: 1800BNB （will be burned if not filled）
+
 ⚔Presale Time : XX at 5PM (UTC) (to be announced)
+
 ⚔Liquidity Locked: 80% - Unlock Date : 6 months minimum5. $Themass Launch
+
 The protocol will be launched on XX July, 2021(to be announced) through one presale on
 BOUNCE.FINANCE.
  How does it work?
