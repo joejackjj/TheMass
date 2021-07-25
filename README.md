@@ -48,7 +48,8 @@ buy more, which is NEVER DUMP and ONLY PUMP!
 Network: Binance Smart Chain (BEP-20)
 Token: $Themass
 Contract address: To be announced
-Decimals: 16
+Decimals: 6
+
 ⚔TOTAL SUPPLY: 10,000,000,000,000,000
 
 ⚔TOKENS LOCKED: 4,000,000,000,000,000（40%） Renew lock monthly upon
